@@ -90,5 +90,3 @@ A used car reseller needs to price cars accurately: high enough to keep a margin
 Python · pandas · NumPy · scikit-learn · Matplotlib · Seaborn · SciPy
 
 ---
-
-*Built by Sibtain Raghib as part of the upGrad Machine Learning programme (Regularised Regression assignment).*

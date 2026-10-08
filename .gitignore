@@ -1,0 +1,10 @@
+# Report files (submitted separately)
+*.pdf
+*.docx
+~$*.docx
+
+# macOS / editor / Jupyter clutter
+.DS_Store
+.idea/
+.ipynb_checkpoints/
+__pycache__/
